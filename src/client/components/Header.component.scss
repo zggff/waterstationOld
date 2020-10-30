@@ -1,0 +1,5 @@
+.header{
+    background-size: cover;
+    $var: 3rem;
+    height: calc(100% - #{$var});
+}
